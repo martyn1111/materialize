@@ -1,0 +1,62 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+p.normal {
+    font-weight: normal;
+}
+
+p.light {
+    font-weight: lighter;
+}
+
+p.thick {
+    font-weight: bold;
+}
+
+p.thicker {
+    font-weight: 900;
+}
+
+t.normal {
+    font-weight: normal;
+}
+
+t.light {
+    font-weight: lighter;
+}
+
+t.thick {
+    font-weight: bold;
+}
+
+t.thicker {
+    font-weight: 900;
+}
+
+a.normal {
+    font-weight: normal;
+}
+
+a.light {
+    font-weight: lighter;
+}
+
+a.thick {
+    font-weight: bold;
+}
+
+a.thicker {
+    font-weight: 900;
+}
